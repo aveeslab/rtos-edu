@@ -1,3 +1,3 @@
-# ngv-rtos
+# rtos-edu
 
 Aurix version
